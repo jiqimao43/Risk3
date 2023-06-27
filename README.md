@@ -25,8 +25,7 @@ git checkout <branch>
 
 ## Known Issues
 
-1. Please check the [Troubleshooting Guide](./TROUBLESHOOTING.md). Fixes for known issues are listed there.
-2. If you need support, please post your issues in our [SAP BTP Learning Group](https://groups.community.sap.com/t5/sap-btp-learning/gh-p/SAP-BTP-Learning).
+Please post your issues in our [SAP BTP Learning Group](https://groups.community.sap.com/t5/sap-btp-learning/gh-p/SAP-BTP-Learning).
 
 ## How to obtain support
 
